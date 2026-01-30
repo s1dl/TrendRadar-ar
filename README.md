@@ -211,8 +211,7 @@ TrendRadar 是完全开源免费的项目，持续更新需要你的动力支持
 <div align="center">
 
 | 微信赞赏 | 支付宝赞赏 |
-|:---:|:---:|
-| <img src="https://cdn-1258574687.cos.ap-shanghai.myqcloud.com/img/%2F2025%2F07%2F17%2F2ae0a88d98079f7e876c2b4dc85233c6-9e8025.JPG" width="240" alt="微信赞赏"> | <img src="https://cdn-1258574687.cos.ap-shanghai.myqcloud.com/img/%2F2025%2F07%2F17%2F1ed4f20ab8e35be51f8e84c94e6e239b4-fe4947.JPG" width="240" alt="支付宝赞赏"> |
+
 
 </div>
 
